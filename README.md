@@ -21,3 +21,11 @@ composer install (pour installer les dépenses sélectionnées)
 ![alt text](Pictures/composerInstall.PNG)
 
 
+Dans le fichier Math.php, création de la classe Math avec la fonction addition.
+
+![alt text](Pictures/classMathPhp.PNG)
+
+Dans le fichier MathTest.php, création du Test Unitaire pour vérifier l'exactitude de ma fonction : 
+
+![alt text](Pictures/classMathTestPhp.PNG)
+
