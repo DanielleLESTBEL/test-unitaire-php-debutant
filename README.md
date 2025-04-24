@@ -29,3 +29,13 @@ Dans le fichier MathTest.php, création du Test Unitaire pour vérifier l'exacti
 
 ![alt text](Pictures/classMathTestPhp.PNG)
 
+Lancement du test PHPUNIT pour vérifier l'exactitude du calcul : 
+
+vendor/bin/phpunit tests
+
+Le test est passé avec succès : ![alt text](Pictures/phpUnitSuccessful.PNG)
+
+Le test échoue (j'ai rajouté un 1 dans mon calcul) : ![alt text](Pictures/classMathPhpFailure.PNG)
+
+![alt text](Pictures/phpUnitFailure.PNG)
+
