@@ -1,12 +1,15 @@
 # test-unitaire-php-debutant
 Job02 Jour 02 Apprentissage des Tests Unitaires dans le Code.
+___
 
-Préparation du dossier TEST-UNITAIRE-PHP-DEBUTANT
-Création du dossier Pictures (où seront stockées les copies-écran illustrant le README)
+## <u>Préparation du dossier</u>  
+1. Création du dossier **Pictures** (où seront stockées les copies-écran illustrant le **README**) à la racine du projet.  
 
-Installation du composer.json et composer.lock à partir du Bash, dans le Terminal (Rappel : ces fichiers permettront à ???????????????) : 
 
-composer require --dev phpunit/phpunit    [pour installer les 2 fichiers composer]
+2. Installation du ***composer.json*** et ***composer.lock*** à partir du ***Bash***, dans le ***Terminal*** (Rappel : ces fichiers permettront à ???????????????) :    
+
+[color= #8516da]<u>Commande</u>[/color] :  composer require --dev phpunit/phpunit   
+   [pour installer les 2 fichiers composer]
 
 ![alt text](Pictures/composerJsonInstall.PNG)
 
