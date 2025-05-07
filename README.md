@@ -2,13 +2,11 @@
 Job02 Jour 02 Apprentissage des Tests Unitaires dans le Code.
 ___
 
-## <u>Préparation du dossier</u>  
+## <u>Préparation du dossier</u> ##  
 1. Création du dossier **Pictures** (où seront stockées les copies-écran illustrant le **README**) à la racine du projet.  
+2. Installation du ***composer.json*** et ***composer.lock*** à partir du ***Bash***, dans le ***Terminal*** (**Rappel** : ces fichiers permettront à l'utilisateur de déclarer et d’installer des bibliothèques requises par son projet.) :    
 
-
-2. Installation du ***composer.json*** et ***composer.lock*** à partir du ***Bash***, dans le ***Terminal*** (Rappel : ces fichiers permettront à ???????????????) :    
-
-[color= #8516da]<u>Commande</u>[/color] :  composer require --dev phpunit/phpunit   
+<u>Commande</u> :  composer require --dev phpunit/phpunit   
    [pour installer les 2 fichiers composer]
 
 ![alt text](Pictures/composerJsonInstall.PNG)
